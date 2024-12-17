@@ -5,8 +5,8 @@ In large organizations, users (customers, employees, or partners) interact with 
 # Business Goals
 The primary business goals of the article recommender system are:
 1.	Enhance User Experience:
-o	Deliver articles that are most relevant to the user based on their profile, job function, or past interactions.
-o	Reduce the time spent searching for information.
+    Deliver articles that are most relevant to the user based on their profile, job function, or past interactions.
+    Reduce the time spent searching for information.
 2.	Increase Content Engagement:
 o	Improve click-through rates (CTR) on articles.
 o	Increase interaction rates with valuable content.
