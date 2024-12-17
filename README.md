@@ -174,11 +174,46 @@ SVM:
 
     - ROC AUC	88.10%
 
-Metric	SVM	Decision Tree	Naïve Bayes	Random Forest	Logistic Regression
-Accuracy	66.66%	99.43%	96.52%	99.44%	97.97%
-Precision	0.00%	99.53%	100.00%	100.00%	100.00%
-Recall	0.00%	98.77%	89.55%	98.34%	93.92%
-ROC AUC	88.10%	99.27%	99.80%	99.99%	99.68%
+Decision Tree:
+
+  - Accuracy	99.43%
+
+  - Precision	99.53%
+
+  - Recall	98.77%
+
+  - ROC AUC	99.27%
+
+Naïve Bayes:
+
+  - Accuracy	96.52%
+
+  - Precision	100.00%
+
+  - Recall  89.55%
+
+  - ROC AUC  99.80%
+
+
+Random Forest:
+
+  - Accuracy  99.44%
+
+  - Precision  100.00%
+
+  - Recall  98.34%
+
+  - ROC AUC   99.99%
+
+Logistic Regression:
+
+  - Accuracy	97.97%
+
+  - Precision	100.00%
+
+  -Recall	93.92%
+
+  -ROC AUC	99.68%
 
 # Interpretation
 
